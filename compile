@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+// Copied from VS Code Extension template.
+
+var path = require('path');
+
+require(path.join(path.dirname(require.resolve('typescript')), 'tsc.js'));
