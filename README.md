@@ -1,2 +1,2 @@
-# typescript-starter
-Starter template for TypeScript with VS Code
+# typescript-node-starter
+Starter template for TypeScript for NodeJS with VS Code
