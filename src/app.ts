@@ -1,8 +1,4 @@
-class Greeter {
-    greet(name) {
-        console.log(`Hello, ${name}!`);
-    }
-}
+import { Greeter } from './Greeter';
 
 let greeter = new Greeter();
 greeter.greet("Robert");
