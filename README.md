@@ -7,7 +7,7 @@ The build script is based on that of a VS Code extensions project for TypeScript
 
 ## Prerequisites
 
-Requires the lastest version of NodeJS with support for ECMAScript 2015/6 features (classes and generators etc) 
+Requires the latest version of NodeJS with support for ECMAScript 2015/6 features (classes and generators etc) 
 
 ## Getting started
 
